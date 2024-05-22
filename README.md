@@ -20,7 +20,7 @@ The program is written in C++ (C++ 14).
    - OpenCV
 
 ## Citation
-Parts of the code based on and borrowed from the below blog posts and GitHub repo.
+Parts of the code are based on and borrowed from the below blog posts and GitHub repo.
 
 1) Contour Detection using OpenCV by LearnOpenCV. https://learnopencv.com/contour-detection-using-opencv-python-c/
 2) OpenCV document scanner by Mariusz Ryndzionek. https://github.com/mryndzionek/scanner
